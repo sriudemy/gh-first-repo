@@ -8,5 +8,5 @@ jobs:
       - name: Print Greeting
         run: echo "Hi"
       - name: Print Goodbye
-        run: echo "Bye
+        run: echo "Bye"
     
